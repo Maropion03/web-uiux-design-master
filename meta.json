@@ -1,0 +1,38 @@
+{
+  "name": "web-uiux-design-master",
+  "industry": "Web UI/UX Design",
+  "industry_cn": "Web UI/UX 设计",
+  "slug": "web-uiux-design-master",
+  "triggers": ["UI design", "UX design", "interaction design", "design system", "design tokens", "usability", "wireframe", "prototype", "accessibility", "a11y", "WCAG", "Figma", "shadcn", "Tailwind", "atomic design", "affordance", "user research", "design critique", "信息架构", "设计系统", "设计评审"],
+  "locale": ["en", "zh-CN"],
+  "profile": "aspiring_learner",
+  "focus": "panoramic",
+  "host": "Claude Code",
+  "host_skills_root": "~/.claude/skills",
+  "created_at": "2026-05-12",
+  "last_research_date": "2026-05-12",
+  "source_count": 220,
+  "primary_source_ratio": 0.6,
+  "tracks_covered": ["figures", "tools", "workflows", "canon", "sources", "glossary"],
+  "mental_models_count": 5,
+  "playbook_rules_count": 8,
+  "research_dimensions_count": 7,
+  "sub_skills": [],
+  "sub_skills_planned": [
+    {"slug": "don-norman", "status": "pending", "reason": "API rate limit at Phase 3"},
+    {"slug": "brad-frost", "status": "pending", "reason": "API rate limit at Phase 3"},
+    {"slug": "adam-wathan", "status": "pending", "reason": "API rate limit at Phase 3"}
+  ],
+  "decay_registry": {
+    "tools": "3-6 months",
+    "workflows": "3-6 months",
+    "mental_models": "1-2 years",
+    "canon": "1-2 years"
+  },
+  "generator": "master-skill v0.6",
+  "version": "1.0",
+  "status": "delivered_minus_subskills",
+  "changelog": [
+    {"version": "1.0", "date": "2026-05-12", "what": "Initial generation, 220+ sources; sub-skills deferred due to rate limit"}
+  ]
+}
